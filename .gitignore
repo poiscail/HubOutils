@@ -1,0 +1,6 @@
+graphify-out/cache/
+__pycache__/
+build/
+dist/
+*.spec
+HubOutils.exe
